@@ -3,8 +3,6 @@
 <p><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/1.0/images/wide.jpg"></p>
 
 </div>
- 
- ---
 
 
 CoinTrend is a lightweight, free and open-source cryptocurrencies market tracker designed for Android 📱📈 using Material Design 3 💎 and Jetpack Compose 🚀.

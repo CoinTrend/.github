@@ -4,8 +4,6 @@
  
 # CoinTrend
 
-### Simple, Minimal, Lightweight, Open-Source
-
 [![Android](https://img.shields.io/badge/Android-grey?logo=android&style=flat)](https://www.android.com/)
 [![AndroidAPI](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-1.7.10-blue.svg?logo=kotlin)](https://kotlinlang.org)
@@ -13,9 +11,12 @@
 [![License](https://img.shields.io/github/license/CoinTrend/CoinTrend?color=orange)]()
 [![Release](https://badgen.net/github/release/CoinTrend/CoinTrend?color=red)](https://github.com/CoinTrend/CoinTrend/releases)
 
+<p><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/1.0/images/wide.jpg"></p>
+
 </div>
  
- ----
+ ---
+
  
 Cryptocurrencies Market Tracker Android App 📱📈 built using Material Design 3 💎 and Jetpack Compose 🚀.
 

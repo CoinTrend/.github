@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/1.0/images/wide.jpg"></p>
+<p><img src="https://github.com/CoinTrend/.github/blob/main/profile/images/wide.jpg"></p>
 
 </div>
 
@@ -13,6 +13,16 @@ CoinTrend is a lightweight, free and open-source cryptocurrencies market monitor
 - **Market**: real-time updates of the Trending Coins (the most searched coins in the last 24h) and the Top Coins (the top 100 cryptocurrencies by market cap).
 - **Favourites**: track your favourite coins at a glance by adding them to the favourite list.
 - **Search**: search over 10.000 coins by name or symbol.
+
+<br>
+
+<p float="left">
+  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_1.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_2.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_3.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_4.jpg" width="24%" />
+</p>
+
 
 ### Lightweight
 CoinTrend stores coins' data locally and updates them automatically only when needed, thus minimising network data consumption and battery consumption. You can still manually trigger a data update whenever you need it by simply swiping down on each screen!

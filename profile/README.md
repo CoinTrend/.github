@@ -17,11 +17,24 @@
  
  ---
 
- 
-Cryptocurrencies Market Tracker Android App 📱📈 built using Material Design 3 💎 and Jetpack Compose 🚀.
+
+CoinTrend is a lightweight, free and open-source cryptocurrencies market tracker designed for Android 📱📈 using Material Design 3 💎 and Jetpack Compose 🚀.
 
 
 ## Features
+
+- **Market**: real-time updates of the Trending Coins (the most searched coins in the last 24h) and the Top Coins (the top 100 cryptocurrencies by market cap).
+- **Favourites**: track your favourite coins at a glance by adding them to the favourite list.
+- **Search**: search over 10.000 coins by name or symbol.
+
+### Lightweight
+CoinTrend stores coins' data locally and updates them automatically only when needed, thus minimising network data consumption and battery consumption. You can still manually trigger a data update whenever you need it by simply swiping down on each screen!
+
+### 100% free and open-source
+Don't trust, verify! CoinTrend is 100% free and does not include any ads nor trackers. Check the code out yourself and don't hesitate to reach out if you have any suggestions!
+
+### Designed for Android
+The User Interface has been designed by following the latest Google's Material Design guidelines and by using only native Android components and animations.
 
 
 ## Technical Details

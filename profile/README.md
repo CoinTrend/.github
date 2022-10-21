@@ -5,7 +5,13 @@
 </div>
 
 
-CoinTrend is a lightweight, free and open-source cryptocurrencies market monitor designed for Android 📱📈 using Material Design 3 💎 and Jetpack Compose 🚀.
+CoinTrend is a lightweight and open-source cryptocurrencies market monitor for Android 📱📈 No Ads, no trackers, no email, no password, just coins 💎
+
+<div align="center">
+
+<a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250/></a>
+
+</div>
 
 
 ## Features

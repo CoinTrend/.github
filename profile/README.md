@@ -43,16 +43,50 @@ The User Interface has been designed by following the latest Google's Material D
 ## Technical Details
 
 
+- **100% Jetpack Compose** 🚀
+
+- **Material Design 3** 💎
+
+- **Hilt Dependency Injection** 🗡
+
+- **Multimodule Clean Architecture** 🏛 taken from [davidepanidev](https://github.com/davidepanidev)'s [Clean Architecture Compose Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-compose-concept) which consists of 4 separate modules:
+
+  -  _app_: Android module that contains the Android Application component and all the framework specific configurations. It has visibility over all the other modules and defines the global dependency injection configurations.
+
+  -  _presentation_: Android module **MVVM**-based. It contains the Android UI framework components (Activities, Composables, ViewModels...) and the related resources (e.g. images, strings...). This module just observes data coming from the undelying modules through Kotlin Flows and displays it. 
+
+  -  _domain_: Kotlin module that contains Use Cases (platform-independent business logic), the Entities (platform-independent business models) and the Repository interfaces. It contains the `BaseAutomaticRefreshDataFlowUseCase` which handles the logic to refresh the persisted data when it becomes outdated.
+
+  -  _data_: Android module that acts as the **Single-Source-Of-Truth (SSOT)** of the App. It contains Repositories implementation, the Room Entities for persistence, the data source Api implementations and the corresponding api-specific models.
+
+- **Unit Testing** ⚙️ of the domain logic using MockK, Strickt and Turbine to test Kotlin Flows.
+
+
+
+
+
 ## Powered By
 
-- [CoinGecko](https://www.coingecko.com)
+
+- [CoinGecko API](https://www.coingecko.com/api/)
+
+
 
 
 ## Credits
 
+
 - [Philipp Lackner](https://github.com/philipplackner): he inspired the LineChart with his [StockChart](https://github.com/philipplackner/StockMarketApp/blob/final/app/src/main/java/com/plcoding/stockmarketapp/presentation/company_info/StockChart.kt). Check out his YouTube channel for great videos about Android Development!
 
-- [Zach Klippenstein](https://gist.github.com/zach-klippenstein): he inspired the SegmentedControl with his [Composable](https://gist.github.com/zach-klippenstein/7ae8874db304f957d6bb91263e292117).
+- [Zach Klippenstein](https://github.com/zach-klippenstein): he inspired the SegmentedControl with his [Composable](https://gist.github.com/zach-klippenstein/7ae8874db304f957d6bb91263e292117).
+
+- [nicolashaan](https://github.com/nicolashaan): for the [Resultat](https://github.com/nicolashaan/resultat) library.
+
+- [olshevski](https://github.com/olshevski): for the [Compose Navigation Reimagined](https://github.com/olshevski/compose-navigation-reimagined) library.
+
+- [mxalbert1996](https://github.com/mxalbert1996): for the [Compose Shared Element](https://github.com/mxalbert1996/compose-shared-elements) library.
+
+
 
 
 ## License

@@ -1,17 +1,21 @@
 <div align="center">
 
-<p><img src="https://github.com/CoinTrend/.github/blob/main/profile/images/wide.jpg"></p>
+<p><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/featureGraphic.jpg"></p>
 
 </div>
 
 
-Lightweight and open-source cryptocurrencies market monitor for Android 📱📈 No Ads, no trackers, just coins 💎
+Lightweight, fast and open-source cryptocurrencies market monitor for Android 📱📈 No Ads, no trackers, just coins 💎 Get it on your favourite Store:
 
-<div align="center">
+<p align="center"> 
+  <a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=75/>
+  </a>
 
-<a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250/></a>
-
-</div>
+  <a href='https://f-droid.org/packages/com.cointrend/'>
+    <img alt='Get it on F-Droid' src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75"/>
+  </a>
+</p>
 
 
 ## Features
@@ -23,10 +27,10 @@ Lightweight and open-source cryptocurrencies market monitor for Android 📱📈
 <br>
 
 <p float="left">
-  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_1.jpg" width="24%" />
-  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_2.jpg" width="24%" />
-  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_3.jpg" width="24%" />
-  <img src="https://github.com/CoinTrend/.github/blob/main/profile/images/screen_4.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/phoneScreenshots/1.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/phoneScreenshots/2.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/phoneScreenshots/3.jpg" width="24%" />
+  <img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/phoneScreenshots/4.jpg" width="24%" />
 </p>
 
 
@@ -47,9 +51,7 @@ The User Interface has been designed by following the latest Google's Material D
 
 - **Material Design 3** 💎
 
-- **Hilt Dependency Injection** 🗡
-
-- **Multimodule Clean Architecture** 🏛 taken from [davidepanidev](https://github.com/davidepanidev)'s [Clean Architecture Compose Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-compose-concept) which consists of 4 separate modules:
+- **Multimodule Clean Architecture** 🏛 as [davidepanidev](https://github.com/davidepanidev)'s [Clean Architecture Compose Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-compose-concept) which consists of 4 separate modules:
 
   -  _app_: Android module that contains the Android Application component and all the framework specific configurations. It has visibility over all the other modules and defines the global dependency injection configurations.
 
@@ -90,6 +92,12 @@ The User Interface has been designed by following the latest Google's Material D
 
 
 ## License
+
+CoinTrend is released under the [GPL-3.0 License](https://github.com/CoinTrend/CoinTrend/blob/develop/LICENSE). Unless explicitly 
+stated otherwise all files in this repository are so licensed.
+
+All projects must properly attribute [the original source](https://github.com/CoinTrend/CoinTrend)
+and must include an unmodified copy of the license text below in all forks.
 
 ```
 CoinTrend: lightweight, fast and open-source cryptocurrencies monitor

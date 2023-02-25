@@ -91,7 +91,7 @@ The User Interface has been designed by following the latest Google's Material D
 
 ## Support
 
-CoinTrend as a FOSS project does not generate any revenue. If you wish to support the developers you can donate some sats at the Bitcoin address below:
+CoinTrend as a FOSS project does not generate any revenue. If you wish to support the developers you can donate at the addresses below:
 
 ### Bitcoin
 
@@ -100,6 +100,14 @@ bc1qszr4jv77n737569vhsdwgq3zc2x47n39mlq82f
 ```
 
 <p><img src="https://raw.githubusercontent.com/CoinTrend/.github/main/support/bitcoin.png" width="200"></p>
+
+### Monero
+
+```
+47h4uVziTTNgWVmorhoJ5YAvC3pbjnLUb6t9v9BcRyWY4koyuFf8dQE41caPSVy5pcfh5WvMAwzSZ27omunS2AxHDhJbeeJ
+```
+
+<p><img src="https://raw.githubusercontent.com/CoinTrend/.github/main/support/monero.png" width="200"></p>
 
 
 ## License
